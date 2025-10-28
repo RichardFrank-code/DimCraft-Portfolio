@@ -88,5 +88,14 @@ Dieses Repository zeigt:
 > Fokus liegt hier auf dem Konzept, nicht auf dem Spike-Code.
 
 ---
+## 📸 Screenshots
 
+**Dimension Builder UI**
+![Dimension Builder](screenshots/ui_dimension_builder.png)
+
+**Generated M-Code**
+![Generated M Code](screenshots/mcode_output.png)
+
+**Star Schema Preview (JSON Relationship + Visual)**
+![Schema Preview](screenshots/json_schema_output.png)
 
