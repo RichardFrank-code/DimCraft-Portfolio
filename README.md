@@ -96,6 +96,6 @@ Dieses Repository zeigt:
 **Generated M-Code**
 ![Generated M Code](screenshots/mcode_output.png)
 
-**Star Schema Preview (JSON Relationship + Visual)**
+**Star Schema Preview (JSON Relationship)**
 ![Schema Preview](screenshots/json_schema_output.png)
 
